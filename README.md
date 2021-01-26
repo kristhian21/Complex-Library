@@ -1,5 +1,5 @@
 # Complex-Library
-Librería de operaciones con números complejos Python
+Librería de operaciones con números complejos en Python
 
 Contiene las operaciones:
 
